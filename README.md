@@ -27,13 +27,12 @@ Les priorités :
 • 2 : SEO / liens è optimiser
 
 Le rétroplanning côté CRB :
-
-• Deadline finale : 1/9/17
-• Testing final 15/8 – 30/8
-• Remplissage 1/7 – 15/7 puis 15/8 – 30/8
-• Début intégration des contenus 1/7/17
-• Préparation des documents (googlesheets / googledocs) 19/6 – 1/7
-• Rencontre, questions/réponses, responsabilités : 16/6.
+* Deadline finale : 1/9/17
+* Testing final 15/8 – 30/8
+* Remplissage 1/7 – 15/7 puis 15/8 – 30/8
+* Début intégration des contenus 1/7/17
+* Préparation des documents (googlesheets / googledocs) 19/6 – 1/7
+* Rencontre, questions/réponses, responsabilités : 16/6.
 
 Les prochaines étapes :
 
