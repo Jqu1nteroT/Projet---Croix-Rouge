@@ -22,9 +22,9 @@ Comment ? via Yoast
 qui ? Becode + CRB + Spade
 Comment ? manuel (bon sens) + automatique (Spade)
 
-Les priorités :
-• 1 : wording / cartes / formulaires è Que tout fonctionne correctement
-• 2 : SEO / liens è optimiser
+**Les priorités :**
+* 1 : wording / cartes / formulaires è Que tout fonctionne correctement
+* 2 : SEO / liens è optimiser
 
 Le rétroplanning côté CRB :
 * Deadline finale : 1/9/17
