@@ -2,9 +2,9 @@
 
 Si on récapitule l’intégrations et les responsabilités par type de contenus, voilà ce que ça donne :
 
-• Le wording :
-qui ? BeCode
-Comment ? sur base des google docs et de la sélection à venir de ce qu’on garde des contenus de l’ancien site
+- Le wording :
+  - qui ? BeCode
+  - Comment ? sur base des google docs et de la sélection à venir de ce qu’on garde des contenus de l’ancien site
 
 • Les cartes dynamiques :
 qui ? Spade
